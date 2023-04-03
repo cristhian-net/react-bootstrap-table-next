@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-table2",
-  "version": "0.0.1",
+  "name": "@bento/react-bootstrap-table-next",
+  "version": "0.0.2",
   "private": true,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
@@ -84,7 +84,7 @@
     "prop-types": "15.5.10",
     "react": "16.4.0",
     "react-dom": "16.4.0",
-    "underscore": "1.9.1"
+    "underscore": "^1.13.6"
   },
   "jest": {
     "collectCoverageFrom": [
