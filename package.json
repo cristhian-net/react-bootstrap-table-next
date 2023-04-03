@@ -1,7 +1,7 @@
 {
   "name": "@bento/react-bootstrap-table-next",
   "version": "0.0.2",
-  "private": true,
+  "private": false,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
   "scripts": {
